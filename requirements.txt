@@ -1,0 +1,15 @@
+
+
+Flask==1.0.2
+Flask-Cors==3.0.4
+gunicorn==19.9.0
+
+Jinja2==2.10
+
+Keras==2.2.4
+Keras-Applications==1.0.6
+Keras-Preprocessing==1.0.5
+numpy==1.16.3
+scipy==1.1.0
+Pillow==5.1.0
+tensorflow==1.13.1
