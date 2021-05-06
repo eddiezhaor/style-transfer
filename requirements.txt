@@ -1,7 +1,7 @@
 
 
 Flask==1.0.2
-Flask-Cors==3.0.4
+Flask-Cors==3.0.9
 gunicorn==19.9.0
 
 Jinja2==2.10
